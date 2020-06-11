@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # supermall
 
 ## Project setup
@@ -18,7 +18,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# mall
-a vue project
->>>>>>> 3ef541eb2120f39cf19df7f096f91272e675b283
+
